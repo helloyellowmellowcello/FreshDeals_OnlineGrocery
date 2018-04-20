@@ -1,4 +1,4 @@
-# EverydaywithIsa_FashionBlog
+# "Fresh Deals": Online Grocery 
 <strong>Description</strong><br />
 For coding help with my Codecademy UI project
 
